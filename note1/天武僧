@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>一个网站</title>
+  <style type="text/css">
+    a{
+      font-size: 30px;
+    }
+  </style>
+</head>
+<body>
+<a href=".\note2\光阴天加点.html">光阴天加点</a><br />
+<a href=".\note2\自在天加点.html">自在天加点(18.7.14更)</a><br />
+<a href=".\note2\**加点.html">***加点</a>
+</body>
+</html>
