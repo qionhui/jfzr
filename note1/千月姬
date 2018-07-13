@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>一个网站</title>
+  <style type="text/css">
+    a{
+      font-size: 30px;
+    }
+  </style>
+</head>
+<body>
+<a href=".\note2\罗刹加点.html">罗刹加点</a><br />
+<a href=".\note2\血妖姬加点.html">血妖姬加点</a><br />
+</body>
+</html>
