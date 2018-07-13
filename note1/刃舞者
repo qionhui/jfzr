@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>一个网站</title>
+  <style type="text/css">
+    a{
+      font-size: 30px;
+    }
+  </style>
+</head>
+<body>
+<a href=".\note2\天狼加点.html">天狼加点</a><br />
+<a href=".\note2\猎刃加点.html">猎刃加点(18.7.14更)</a><br />
+<a href=".\note2\凤舞加点.html">凤舞加点</a>
+</body>
+</html>
